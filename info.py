@@ -1,5 +1,5 @@
 import re
-import os
+import os nothing 
 from os import environ, getenv
 from Script import script
 
